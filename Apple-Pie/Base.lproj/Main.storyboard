@@ -514,6 +514,7 @@
                     </view>
                     <connections>
                         <outlet property="correctWordLabel" destination="ZwT-Hl-ND8" id="gsg-cm-VJM"/>
+                        <outlet property="scoreLabel" destination="ZxO-Mu-Vsb" id="pe5-bF-NoQ"/>
                         <outlet property="treeImageView" destination="dYO-gk-gLV" id="CQR-MC-C3p"/>
                         <outletCollection property="letterButtons" destination="lID-9m-ApM" collectionClass="NSMutableArray" id="rpo-Jd-S4g"/>
                         <outletCollection property="letterButtons" destination="VGb-g8-YNJ" collectionClass="NSMutableArray" id="7Ph-Ow-NXD"/>
